@@ -7,11 +7,13 @@ Team Planner (“we”, “our”, or “us”) respects your privacy. This Priv
 ## 1. Information We Access
 
 - Team Planner **only accesses photos** from your device when you choose to select images for tasks or profiles.
+- Team Planner may also **access your camera** when you choose to take a photo for your avatar.
 - We **do not collect, transmit, or share any personal data** outside your device.
 
 ## 2. How We Use Information
 
 - Photos you select are **used locally** within the app to attach to tasks or profiles.
+- Avatar photos taken with the camera are **stored only on your device** and are not uploaded.
 - No analytics or tracking is performed.
 
 ## 3. Data Sharing
